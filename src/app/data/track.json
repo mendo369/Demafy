@@ -1,0 +1,20 @@
+{
+    "data":[
+        {
+            "id":1,
+            "name":"Redecorate",
+            "album":"Scaled And Ici",
+            "cover":"ToP.com",
+            "artist":{
+                "name":"Twenty one pilots",
+                "nickname":"ToP",
+                "nationality":"USA"
+            },
+            "duration":{
+                "start":0,
+                "end":215
+            },
+            "url":"http://localhost:3000/track.mp3"
+        }
+    ]
+}
